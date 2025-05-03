@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Arbitrum14DayWithMarcel Greeting dApp Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates day 2 of Arbitrum14DayWithMarcel campaign by building a Greeting dApp.
 
 Try running some of the following tasks:
 
